@@ -1,4 +1,4 @@
-# COMPSCI 3GC3 - Assignment 4 - Object Modeler
+# COMPSCI 3GC3 - Assignment 4
 
 ## Evan Desjardine & Mark Hutchison
 
