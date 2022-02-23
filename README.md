@@ -8,6 +8,9 @@
   - Rotation/Spin
   - Scaleable
   - Textures, Material & Colours
+- Scene Graph Class
+  - Root Node for Scene
+  - Tree Structure for all Nodes
 - Light Utility
 - Vector3 Math Utility
 - Colour Utility
