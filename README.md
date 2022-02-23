@@ -22,6 +22,7 @@
 - Toggleable Lights
 - Reset Scene Graph
 - Culling and Double Buffer
+- Save and Load Scenes to and from text files
 
 ### Bonus Features
 
